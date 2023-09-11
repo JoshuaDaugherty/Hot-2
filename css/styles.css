@@ -1,0 +1,117 @@
+body {
+    background-color: blanchedalmond;
+}
+
+#logo {
+    float: left;
+}
+
+nav ul {
+    float: left;
+}
+
+nav ul li {
+    display: inline;
+    
+
+}
+
+nav ul li a {
+    list-style: none;
+    font-size: 2rem;
+    margin-left: 1.5rem;
+    text-decoration: none;
+    
+}
+
+nav ul li a:link {
+  color:blue;
+}
+
+nav ul li a:visited {
+  color:red;
+}
+
+nav ul li a:hover {
+    color:yellow;
+}
+
+.jumbotron {
+    background: darkblue;
+  }
+  
+.jumbotron p {
+    color: white;
+    text-align: center;
+  }
+
+  .jumbotron h1 {
+    text-align: center;
+    color: white;
+}
+
+#wrapper {
+    clear: both;
+    text-align: center;
+}
+
+#info {
+    text-align: left;
+}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    font-size: 70%;
+}
+
+.column {
+    float: left;
+    width: 20%;
+    padding-top: 7em;
+    
+}
+
+#history h1 {
+    text-align: center; 
+    padding-right: 250px;
+}
+
+#menu {
+    text-align: left;
+    padding-top: 1.5em;
+    margin: auto;
+    list-style-image: url('https://cdn-icons-png.flaticon.com/128/11056/11056813.png');
+}
+
+#whopper {
+    background-color: red;
+}
+
+#iw {
+    background-color: blue;
+}
+
+#dw {
+    background-color: yellow;
+}
+
+#bk {
+    background-color: aqua;
+}
+
+#ten {
+    background-color: blueviolet;
+}
+
+#head {
+    text-align: center;
+    padding-right: 250px;
+}
+   
